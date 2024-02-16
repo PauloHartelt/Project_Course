@@ -4,7 +4,8 @@ Project_Course
 
 ## Description
 
-This project was made for a job interview to teach about Selenium and BeautifulSoup. It's just to teach, but it's functional. 
+This project was made for a job interview to teach about Selenium and BeautifulSoup. It's just to teach, but it's functional.
+For the lesson about this code: https://drive.google.com/file/d/1_dePDYdIARQlcV5MoW2eW4_LfFXtkHQ2/view?usp=drive_link
 
 ## Installation
 
